@@ -103,11 +103,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘿𝙆_𝘽𝙊𝙏𝙭](https://telegram.dog/dk_botx)
+[𝘾𝙞𝙣𝙚𝙢𝙖 𝙋𝙧𝙖𝙣𝙩𝙝𝙚𝙣](https://t.me/CinemaPranthenChannel)
 
 ## Bot
 
-[𝙏𝙤𝙫𝙞𝙣𝙤 𝘽𝙤𝙩](https://telegram.dog/filesearchxbot)
+[𝙑𝙞𝙠𝙧𝙖𝙢 𝘽𝙤𝙩](http://t.me/vikramfilesearcherbot)
 
 ## Credits 
 * [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
