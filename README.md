@@ -29,7 +29,7 @@
 
 ## 𝗠𝗨𝗦𝗧 𝗗𝗢
 
-𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙀𝘿𝙄𝙏 𝙇𝙄𝙉𝙆 𝙄𝙉 [𝙏𝙃𝙄𝙎 𝙇𝙄𝙉𝙀](https://github.com/DKBOTx/TovinoBotV3/blob/8a258fb9e2c92fdb8e78b465642e18f9f47b6dce/plugins/pm_filter.py#L444) 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙍𝙀𝘿𝙄𝙍𝙀𝘾𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙇𝙄𝙉𝙆 . 𝙊𝙏𝙃𝙀𝙍𝙒𝙄𝙎𝙀 𝙔𝙊𝙐 𝘾𝘼𝙉𝙏 𝙏𝘼𝙆𝙀 𝙁𝙄𝙇𝙀𝙎 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
+𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙀𝘿𝙄𝙏 𝙇𝙄𝙉𝙆 𝙄𝙉 [𝙏𝙃𝙄𝙎 𝙇𝙄𝙉𝙀]( (https://github.com/Mahimamylove/TovinoBotV3/blob/8a258fb9e2c92fdb8e78b465642e18f9f47b6dce/plugins/pm_filter.py#L444) 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙍𝙀𝘿𝙄𝙍𝙀𝘾𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙇𝙄𝙉𝙆 . 𝙊𝙏𝙃𝙀𝙍𝙒𝙄𝙎𝙀 𝙔𝙊𝙐 𝘾𝘼𝙉𝙏 𝙏𝘼𝙆𝙀 𝙁𝙄𝙇𝙀𝙎 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
 
 𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
 
@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/DKBOTx/TovinoBotV3
+git clone https://github.com/Mahimamylove/TovinoBotV3
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
