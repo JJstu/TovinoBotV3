@@ -103,7 +103,8 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘾𝙞𝙣𝙚𝙢𝙖 𝙋𝙧𝙖𝙣𝙩𝙝𝙚𝙣](https://t.me/CinemaPranthenChannel)
+[𝘾𝙞𝙣𝙚𝙢𝙖 𝙋𝙧𝙖𝙣𝙩𝙝𝙚𝙣](https://t.me/+tu5TMHWzu9JiZWE1)
+                        
 
 ## Bot
 
